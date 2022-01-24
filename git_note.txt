@@ -1,0 +1,13 @@
+git init
+
+git remote add origin https://github.com/yuliantstar/simple_web.git
+git branch -M main
+
+
+git status
+
+git add .
+
+git commit -m "up"
+
+git push -u origin main
